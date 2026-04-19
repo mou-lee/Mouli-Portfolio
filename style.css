@@ -55,6 +55,8 @@ h1 {
 .logo {
     /* width: 20%; */
     color: white;
+    font-family: "Akaya Kanadaka", system-ui;
+    font-size: 24px;
 }
 
 .nav-links {
